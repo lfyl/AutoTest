@@ -5,3 +5,4 @@
 这是master分支
 这是branch1分支的内容
 version1
+version2
